@@ -1,0 +1,31 @@
+bn*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#box{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    margin:  auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    color: aliceblue;
+    background-color: #0c16d8;
+}
+
+.btn{
+    width: 50% ;
+    margin: 50px auto 5px  auto;
+}
+
+button{
+    margin: 0 15px;
+    text-align: center;
+    background-color: red;
+    color: antiquewhite;
+    padding: 7px;
+}
